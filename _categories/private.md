@@ -1,5 +1,5 @@
 ---
-title: Private Articles
+title: hacked
 permalink: /private/
 layout: article
 icon: lock
